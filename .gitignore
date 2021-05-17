@@ -1,0 +1,4 @@
+mysql/data/*
+html/*
+!html/adminer
+!html/index.php
