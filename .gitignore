@@ -1,3 +1,4 @@
+.env
 mysql/data/*
 html/*
 !html/adminer
